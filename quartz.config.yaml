@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl : sebastienscarpitta-ux.github.io/coffre-2
+  baseUrl : sebastienscarpitta-ux.github.io/Yoka-
   ignorePatterns:
     - private
     - templates
