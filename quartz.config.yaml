@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Néo Révolution
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: sebastienscarpitta-ux.github.io/N-o-R-volution
+  baseUrl : sebastienscarpitta-ux.github.io/coffre-2
   ignorePatterns:
     - private
     - templates

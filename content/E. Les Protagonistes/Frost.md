@@ -1,7 +1,6 @@
 --- 
 publish: true 
 ---
-
 - Nom complet > N.C
 - Alias > Frost
 - Âge > N.C.

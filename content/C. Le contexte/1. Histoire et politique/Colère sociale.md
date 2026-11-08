@@ -1,7 +1,6 @@
 --- 
 publish: true 
 ---
-
 Le citoyen ordinaire vit sous une République qui se dit forte, moderne et protectrice, mais que beaucoup trouvent lointaine. Entre le prix de la sécurité, la pression corporative et le sentiment que les décisions se prennent ailleurs, la lassitude grandit — sans que personne sache encore sous quelle forme elle éclatera.
 
 En résumé :
@@ -11,4 +10,3 @@ En résumé :
 -  9 septembre 2076 : Forte manifestation aux portes de l'Elysée.
 
 Hook :
-- Flashs info, manifestants qui se moquent de Marianne (« je m'en cogne »)

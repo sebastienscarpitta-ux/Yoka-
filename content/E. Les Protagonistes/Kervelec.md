@@ -1,7 +1,6 @@
 --- 
 publish: true 
 ---
-
 - Nom complet > Yohann de Kervelec
 - Alias >
 - Âge > N.C

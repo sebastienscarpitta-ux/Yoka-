@@ -1,7 +1,6 @@
 --- 
 publish: true 
 ---
-
 La Légion étrangère demeure l’une des dernières grandes institutions militaires françaises à avoir conservé son mystère et son prestige. Officiellement, elle recrute des hommes et des femmes de toutes origines, venus chercher une seconde chance, une discipline ou simplement un moyen de disparaître de leur ancienne vie.
 
 ![[Légion étrangère.png]]

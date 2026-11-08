@@ -1,7 +1,6 @@
 --- 
 publish: true 
 ---
-
 Paris reste brillante, touristique et spectaculaire, mais cette lumière repose sur des fractures nettes : l’ouest riche et sécurisé, le centre corporatiste et patrimonial, l’est sous influence d’Horizon, le nord populaire et insoumis, les enclaves industrielles et les marges toxiques ou sauvages. Les écarts de richesse ne sont pas seulement économiques : ils déterminent qui est surveillé, protégé, écouté — et qui doit se débrouiller.
 
 ![[Map Paris.png]]
