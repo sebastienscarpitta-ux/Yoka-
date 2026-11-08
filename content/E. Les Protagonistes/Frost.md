@@ -6,7 +6,7 @@ publish: true
 - Âge > N.C.
 - Nationalité : Russe (né à Vladivostok)
 - Spécialité > La sécurité et la confidentialité absolues des échanges sensibles
-- Affiliation officielle >  N.C.
+- Affiliation officielle >  EVO
 - Statut actuel >  Shadowrunner en activité
 
 ![[Frost.png|341]]

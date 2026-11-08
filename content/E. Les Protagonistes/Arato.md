@@ -1,7 +1,7 @@
 --- 
 publish: true 
 ---
-- Nom complet > Talwyn de Lorgeril
+- Nom complet > N.C.
 - Alias > Arato
 - Âge > 32 ans 
 - Nationalité : française (origines bretonne et japonaise) 
